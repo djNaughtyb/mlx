@@ -60,6 +60,18 @@ variety of examples, including:
 - Generating images with [Stable Diffusion](https://github.com/ml-explore/mlx-examples/tree/main/stable_diffusion).
 - Speech recognition with [OpenAI's Whisper](https://github.com/ml-explore/mlx-examples/tree/main/whisper).
 
+- ## 🧠 Optional! Before doing the "quick intsall", consider Your Install Path.
+
+> basically: Before you jump, check your parachute.
+
+| Intent                     | Command                      | Outcome              |
+|----------------------------|------------------------------|----------------------|
+| Just want to run MLX       | `pip install mlx`            | Fast, limited        |
+| Want full control/dev mode | `Build From Source`          | Editable, extensible |
+
+- The README.md will show you first how to do the quick install, then 10-20 lines down the option to build from source.
+- Building from source offeres more control and differnt and options. Chose the option that best supports your use case. 
+
 ## Quickstart
 
 See the [quick start
